@@ -1,5 +1,3 @@
-
-
 # 🚀 **Cristiana-Silvia Bazîru**  
 <img src="profile.jpeg" align="right" width="150" height="150" style="border-radius: 50%; margin-left: 15px;" />  
 🎓 **Final-Year IT Student | Java & Backend Enthusiast**  
@@ -66,3 +64,4 @@ Passionate **Java learner** with hands-on experience in **OOP, databases, and AP
 💻 **[GitHub] https://github.com/cristianasilviaB/**  
 
 
+](https://github.com/cristianasilviaB/Portofolio)
